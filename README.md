@@ -1,7 +1,7 @@
 ## 🚀 Como instalar no Tampermonkey
 Clique no botão abaixo para instalar diretamente:
 
-👉 **[Instalar Script](https://raw.githubusercontent.com/devluiztoledo/notificar-atendimento/main/notificar-atendimento.user.js)**
+👉 **[Instalar Script](https://github.com/devluiztoledo/notificar-atendimento/raw/refs/heads/main/notificar-atendimento.user.js)**
 
 ---
 
