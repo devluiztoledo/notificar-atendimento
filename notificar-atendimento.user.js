@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         A1 Notificação Novo atendimento - Luiz Toledo 
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.5
 // @description  Monitora contador no Main e Atendimentos; notifica em aumentos. Atualiza atendimentos a cada 10s simulando botão.
 // @author       Luiz Toledo
 // @match        https://integrator6.gegnet.com.br/*
