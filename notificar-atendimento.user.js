@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         A1 Notificação Novo atendimento - Luiz Toledo 
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Monitora contador no Main e Atendimentos; notifica em aumentos. Atualiza atendimentos a cada 10s simulando botão.
 // @match        https://integrator6.gegnet.com.br/*
 // @grant        GM_notification
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/devluiztoledo/notificar-atendimento/main/notificar-atendimento.user.js
 // @downloadURL  https://raw.githubusercontent.com/devluiztoledo/notificar-atendimento/main/notificar-atendimento.user.js
+// @icon         https://raw.githubusercontent.com/devluiztoledo/copiar-dados-onu-autoisp/main/icon.png
 // ==/UserScript==
 
 (function() {
