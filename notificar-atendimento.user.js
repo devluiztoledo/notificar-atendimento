@@ -7,8 +7,8 @@
 // @match        https://integrator6.gegnet.com.br/*
 // @grant        GM_notification
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/devluiztoledo/notificar-atendimento/main/notificar-atendimento.user.js
-// @downloadURL  https://raw.githubusercontent.com/devluiztoledo/notificar-atendimento/main/notificar-atendimento.user.js
+// @updateURL    https://github.com/devluiztoledo/notificar-atendimento/raw/refs/heads/main/notificar-atendimento.user.js
+// @downloadURL  https://github.com/devluiztoledo/notificar-atendimento/raw/refs/heads/main/notificar-atendimento.user.js
 // @icon         https://raw.githubusercontent.com/devluiztoledo/copiar-dados-onu-autoisp/main/icon.png
 // ==/UserScript==
 
