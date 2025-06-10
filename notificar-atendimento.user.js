@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         A1 Notificação Novo atendimento - Luiz Toledo 
 // @namespace    http://tampermonkey.net/
-// @version      1.6
+// @version      1.7
 // @description  Monitora contador no Main e Atendimentos, notifica em aumentos. Atualiza atendimentos a cada 10s simulando botão.
 // @author       Luiz Toledo
 // @match        https://integrator6.gegnet.com.br/*
@@ -122,7 +122,7 @@
                 console.log(`[Notificador] AT: incremento ${lastAtValue}→${currentAt}`);
                 lastAtValue = currentAt;
                 const pendentes = getPendentes();
-                const message = `Novo atendimento aberto!\nAtendimentos pendentes: ${pendentes}`;
+                const message = `ATUALIZAÇÃO DE ATENDIMENTOS\nAtendimentos pendentes: ${pendentes}`;
                 notify('Novo Atendimento', message);
             }
             return;
